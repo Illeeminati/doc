@@ -9,8 +9,6 @@ General
 Accounts
 ********
 
-Multiple Accounts
-=================
 .. note::
    Users who are using more than ONE account on placeholder will automatically permanently banned to enforce placeholders multi-accounting rule. If you share a computer please fill out the multiple account form found on our forums.
    
