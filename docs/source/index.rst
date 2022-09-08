@@ -56,4 +56,4 @@ Contents
    :maxdepth: 2
    :caption: Rules
    
-   /docs/rules/rules
+   /doc/rules/rules
