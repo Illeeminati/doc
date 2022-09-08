@@ -56,4 +56,4 @@ Contents
    :maxdepth: 2
    :caption: Rules
    
-   rules/rules
+   rules/rules.rst
