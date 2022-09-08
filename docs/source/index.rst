@@ -1,5 +1,5 @@
-Welcome to the -placeholder- handbook.
-===================================
+-placeholder- handbook.
+=======================
 
 .. note::
 
@@ -38,7 +38,11 @@ Welcome to the -placeholder- handbook.
 | MT           | Mapping Team              |
 +--------------+---------------------------+
 
+**Welcome**
 
+Welcome to the -placeholder- handbook. 
+
+Here you will find a detailed and comprehensive documentation of our rules and procedures so please take some time to read over all of the documents.
 
 
 
