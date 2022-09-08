@@ -53,6 +53,7 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   :maxdepth: 2
+   :caption: Rules
+   
+   /docs/rules/rules
