@@ -38,7 +38,9 @@
 | MT           | Mapping Team              |
 +--------------+---------------------------+
 
-**Welcome**
+*******
+Welcome
+*******
 
 Welcome to the -placeholder- handbook. 
 
