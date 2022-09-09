@@ -57,3 +57,4 @@ Contents
    :caption: Rules
    
    rules/rules
+   rules/ig_rules
