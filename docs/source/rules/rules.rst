@@ -8,11 +8,11 @@ General
 ********
 Accounts
 ********
+.. note::
+   Users who are using more than ONE account on placeholder will automatically permanently banned to enforce placeholders multi-accounting rule. If you share a computer please fill out the multiple account form found on our forums.
 
 Multiple Accounts
 =================
-.. note::
-   Users who are using more than ONE account on placeholder will automatically permanently banned to enforce placeholders multi-accounting rule. If you share a computer please fill out the multiple account form found on our forums.
    
 Players of placeholder are restricted of making more than ONE account on placeholder to upkeep our multi-accounting rule. Players may only use the account they registered with originally, anyone found multi-accounting will recieve a permanent ban. Players may also NOT create a NEW account to get around a ban known as Ban Evading, this will also result in a permanent ban. If you are to come across this whilst playing please contact the AT immediately.
 
@@ -46,3 +46,21 @@ Third Party Apps
    Placeholder will provide a discord channel for exeptions to this rule such as EMS factions, if required by anyone else this must be discussed with AT and AT must be present in the chat when it is conducted.
 
 The use of third party applications is strictly prohibited, this includes applications such as Discord or Teamspeak to communicate outwith the official placeholder platforms. Using any VoIP or text chat applications to gain any form of advantage over other players is strictly prohibited and doing so will be met with punishment for Metagaming. 
+
+*******************
+Bug / Exploit Abuse
+*******************
+Abusing any sort of bugs or exploits to gain an advantage in game is strictly prohibited and will be met with severe punishment. Placeholder players should not use bugs to exploit vulnerabilities in the script to gain a tactical advantage over other players. Whilst we understand that bugs can happen accidentally these should be reported immediately so action can be taken to prevent them from happening in the future.
+
+*********
+Languages
+*********
+Placeholder is a strictly English speaking server. It is a requirement to be able to speak and read fluent English to play on the server. If you are unable to do so you may be removed from the server to uphold our standards.
+
+**********************
+IC & OOC Asset Mixing
+**********************
+Mixing IC currencies for OOC currencies and vice versa are strictly prohibited, if you are caught doing so you will be punished.
+
+   | **Example:**
+   | Mike contacts Andy and tells him he will give him $20 real money for his property in Idlewood, they both agree and go ahead. This is asset mixing and is a punishable offense.
