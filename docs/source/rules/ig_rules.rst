@@ -5,9 +5,9 @@ In Game Rules
 .. note::
   The following rules should be followed when playing on the placeholder server.
   
-**********
-Metagaming
-**********
+***************
+Metagaming (MG)
+***************
 Metagaming is a rule that is enforced to prevent using OOC information IC and vice vera. Any use of information gained both IC and OOC must stay that way and must not be used to adapt your roleplay to prevent an event from happening due to the knowledge gained from the information you have recieved. Doing so will result in a punishment or ban depending on the severity.
 
    | **Example 1:**
@@ -19,9 +19,9 @@ Metagaming is a rule that is enforced to prevent using OOC information IC and vi
    | **Example 3:**
    | Dylan is PMing a player and asks how much money they have in their bank, the player responds telling him how much money he currently has in his bank. Dylan then targets the player and attempts to rob them based on this knowledge. This is Metagaming - Dylan would have no knowledge ICly about how much money the player has in his bank had he not asked via PMs. Dylan would be punished in this scenario.
 
-************
-Powergaming
-************
+****************
+Powergaming (PG)
+****************
 Powergaming is a rule that is enforced to prevent unrealistic actions being preformed in-game. This means attempting to do things such as lifting a car with your bare hands or forcing roleplay on another player without allowing them ample roleplaying opportunity. All actions you preform must be realistic and must fit with your character. This includes showing fear if you are robbed, roleplaying injuries appropriately etc. Failing to do so will result in punishment or a ban depending on severity.
 
    | **Example 1:**
@@ -33,10 +33,45 @@ Powergaming is a rule that is enforced to prevent unrealistic actions being pref
    | **Example 3:**
    | Dylan is in his vehicle and travelling at 100 MPH, Dylan then crashes into the side of a bulding at full speed. Dylan then proceeds to drive off like nothing happened. This is Powergaming - Dylan's actions would be considered entrely unrealistic and the situation should be roleplayed by Dylan. Dylan should roleplay his injuries as a smash at 100 MPH will definitely leave some form of injuries or may even lead to death. Dylan would be punished in this scenario.
    
-**************
-Ninja-Jacking
-**************
+******************
+Ninja-Jacking (NG)
+******************
 Ninja-Jacking is a rule that is enforced to prevent players randomly approaching occupied vehicles and stealing them without any attempt to roleplay. Car-jacking must be appropriately roleplayed just like any other action. Failing to do so will result in punishment.
 
    | **Example:**
    | Dylan is running down the road near Pizza Stacks, he sees a car that looks really fast so he approaches the vehicle and car-jacks the occupant without any roleplay. This is Ninja-Jacking - Dylan should roleplay the entirety of the car-jacking allowing ample roleplaying opportunity to the occupant. Dylan would be punished in this scenario.
+
+**********************
+Logging to Avoid (LTA)
+**********************
+Logging to Avoid is a rule that is enforced to prevent players from logging to avoid roleplay. If you find yourself in a roleplay scenario you should firstly complete the whole scenario before logging off, allowing 30 minutes if you have successfully lost Police. Failing to do so will be considered Logging to Avoid and will result in punishment.
+
+   | **Example 1:**
+   | Dylan has gotten into an altercation with a police officer and has shot the officer, he then proceeds to run away into an alleyway and log off to prevent him from being caught. This is Logging to Avoid - Dylan should allow a minimum of 30 minutes after doing this to allow police time to try and find him. Dylan would be punished in this scenario.
+   
+   | **Example 2:**
+   | Dylan is evading police and smashes into a wall bringing the persuit to a close, the police then approach his vehicle asking him to come out with his hands up, instead of roleplaying Dylan decides to just log off. This is Logging to Avoid - Dylan should firstly finish the roleplay scenario in its entirety before deciding to log off. Dylan would be punished in this scenario.
+   
+**************************
+Random Deathmatching (RDM)
+**************************
+Random Deathmatching is a rule that is enforced to prevent players from randomly attacking other players without any reason for doing so. Attacking other player should have some form of purpose In Character, failing to have so will be considered Random Deathmatching and will result in punishment or a ban depending on severity.
+
+   | **Example:**
+   | Dylan is bored one night and sees alot of people standing outside Pizza Stacks. He decides it would be a good idea to open fire with his AK-47 killing 7 people for no reason. This is Random Deathmatching - Dylan has no purpose for killing 7 players standing outside Pizza Stacks. Dylan would be punished in this scenario.
+
+*********************
+Revenge Killing (RK)
+*********************
+Revenge Killing is a rule that is enforced to prevent players from killing a player who recently killed them. If you are killed by a player your character is to forget the events that transpired prior to their death. This means not returning and killing anyone involved in the previous roleplaying scenario. Failing to do so will result in punishment.
+
+   | **Example:**
+   | Dylan is in a gang shootout and is killed by an opposing player, he respawns at the hospital and returns to the scene and kills the player that just recently killed him. This is Revenge Killing - Dylan must forget the events that transpired prior to his death and must not return to the area and engage in roleplay until the event has concluded, he also must not kill anyone who was involved in the situation. Dylan would be punished in this scenario.
+   
+*****************************
+Unnacceptable Character Names
+*****************************
+Unnacceptable Character Names is a rule that is enforced to keep player names realistic. Players of the server should not use any celebrity/famous or widely known names as their character names, doing so will result in being asked to pick a new character name and your character will be locked until such is done.
+
+   | **Example:**
+   | Dylan has just made his account and has decided he wants to make a character named Donald Trump, he creates his character and spawns in-game. This is an Unnacceptable Character Name - Dylan should try and pick a unique name which is not widely known or represents any sort of celebrity. Dylan would be asked to change his characrer name.
