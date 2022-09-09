@@ -5,6 +5,11 @@ General
 .. note::
    All of the following rules apply across all of the placeholder platforms.
 
+************
+Golden Rule
+************
+Placeholders Golden Rule is to treat others with respect regardless of their personal beliefs, this rule should be followed at all times.
+
 ********
 Accounts
 ********
