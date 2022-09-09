@@ -69,9 +69,9 @@ Revenge Killing is a rule that is enforced to prevent players from killing a pla
    | Dylan is in a gang shootout and is killed by an opposing player, he respawns at the hospital and returns to the scene and kills the player that just recently killed him. This is Revenge Killing - Dylan must forget the events that transpired prior to his death and must not return to the area and engage in roleplay until the event has concluded, he also must not kill anyone who was involved in the situation. Dylan would be punished in this scenario.
    
 *****************************
-Unnacceptable Character Names
+Unacceptable Character Names
 *****************************
-Unnacceptable Character Names is a rule that is enforced to keep player names realistic. Players of the server should not use any celebrity/famous or widely known names as their character names, doing so will result in being asked to pick a new character name and your character will be locked until such is done.
+Unacceptable Character Names is a rule that is enforced to keep player names realistic. Players of the server should not use any celebrity/famous or widely known names as their character names, doing so will result in being asked to pick a new character name and your character will be locked until such is done.
 
    | **Example:**
-   | Dylan has just made his account and has decided he wants to make a character named Donald Trump, he creates his character and spawns in-game. This is an Unnacceptable Character Name - Dylan should try and pick a unique name which is not widely known or represents any sort of celebrity. Dylan would be asked to change his characrer name.
+   | Dylan has just made his account and has decided he wants to make a character named Donald Trump, he creates his character and spawns in-game. This is an Unacceptable Character Name - Dylan should try and pick a unique name which is not widely known or represents any sort of celebrity. Dylan would be asked to change his characrer name.
