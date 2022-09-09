@@ -36,13 +36,13 @@ Illegal Content
 Players of placeholder should not post any illegal content that is considered lawbreaking, this includes videos, pictures or any other content that is of a sensative or graphic nature. It should also be noted that any form of piracy is also prohibited at placeholder.
 
    | **Example 1:**
-   | Mike wants to play with his friends but cannot afford to buy the base GTA:SA game, he asks in discord for a link to a pirated version of the game and someone responds with a link.
+   | Dylan wants to play with his friends but cannot afford to buy the base GTA:SA game, he asks in discord for a link to a pirated version of the game and someone responds with a link.
    
    | **Example 2:**
    | When browsing the forums or discord you come across an image of a raccoon engaged in sexual acts with a human. This is illegal content and should be reported immediately.
    
    | **Example 3:**
-   | Mike posts a video link of a very graphic real life shooting to show to his friends in general chat in discord. This is prohibited and should be reported immediately.
+   | Dylan posts a video link of a very graphic real life shooting to show to his friends in general chat in discord. This is prohibited and should be reported immediately.
 
 *****************
 Third Party Apps
@@ -68,7 +68,7 @@ IC & OOC Asset Mixing
 Mixing IC currencies for OOC currencies and vice versa are strictly prohibited, if you are caught doing so you will be punished.
 
    | **Example:**
-   | Mike contacts Andy and tells him he will give him $20 real money for his property in Idlewood, they both agree and go ahead. This is asset mixing and is a punishable offense.
+   | Dylan contacts Andy and tells him he will give him $20 real money for his property in Idlewood, they both agree and go ahead. This is asset mixing and is a punishable offense.
 
 ***********
 Plagiarism
