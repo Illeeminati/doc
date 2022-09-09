@@ -38,3 +38,11 @@ Players of placeholder should not post any illegal content that is considered la
    
    | **Example 3:**
    | Mike posts a video link of a very graphic real life shooting to show to his friends in general chat in discord. This is prohibited and should be reported immediately.
+
+*****************
+Third Party Apps
+*****************
+.. note::
+   Placeholder will provide a discord channel for exeptions to this rule such as EMS factions, if required by anyone else this must be discussed with AT and AT must be present in the chat when it is conducted.
+
+The use of third party applications is strictly prohibited, this includes applications such as Discord or Teamspeak to communicate outwith the official placeholder platforms. Using any VoIP or text chat applications to gain any form of advantage over other players is strictly prohibited and doing so will be met with punishment for Metagaming. 
