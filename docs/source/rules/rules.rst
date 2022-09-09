@@ -69,3 +69,19 @@ Mixing IC currencies for OOC currencies and vice versa are strictly prohibited, 
 
    | **Example:**
    | Mike contacts Andy and tells him he will give him $20 real money for his property in Idlewood, they both agree and go ahead. This is asset mixing and is a punishable offense.
+
+***********
+Plagiarism
+***********
+Copying the property of another player of placeholder without permission is strictly prohibited and will result in punishment. This applies for all of placeholder platforms.
+
+*******
+Doxing
+*******
+Placeholder will not tolerate any doxing of any players, this includes posting any personal infomation or personal data on another player without their permission to do so, doing so is a punishable offense and may result in a permanent ban and blacklist.
+
+*******
+DDoSing
+*******
+Placeholder tolerates no form of DDoS attacks, this applies to players and to the server. If you are found to be breaking this rule you will be permanently banned and blacklisted from the server.
+
