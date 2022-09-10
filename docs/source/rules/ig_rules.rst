@@ -144,3 +144,22 @@ Car-Parking is a rule that is enforced to prevent players from parking a vehicle
    | **Example:**
    | Dylan is being shot at whilst in his vehicle, he accelerates at the person shooting running him over and trapping him under the vehicle until he dies. This is Car-Parking - Dylan whilst allowed to ram the player should then allow them to get up and roleplay the injuries sustained from being run over. Dylan would be punished in this scenario.
    
+*****
+CCTV
+*****
+
+*****
+Binds
+*****
+
+********************
+Roleplaying Injuries
+********************
+
+*************************
+Storage Items & Furniture
+*************************
+
+**************
+Advertisements
+**************
