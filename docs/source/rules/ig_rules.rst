@@ -105,3 +105,11 @@ Bunnyhopping is a rule that is enforced to prevent players from spamming the jum
    | **Example:**
    | Dylan is being chased by police on foot, he notices the cop is catching up with him so in order to gain some ground he decides to spam jump and bunnyhop so he can get away faster. This is Bunnyhopping - Dylan should not use bunnyhopping to gain any form of advantage over another player. Dylan would be punished in this scenario.
    
+***************
+Gross Roleplay
+***************
+
+.. note::
+  Paedophilia roleplay, Rape roleplay and any sexual or gross roleplay involving minors (18 or under) is very strictly prohibited on any of placeholders platforms, engaging in such roleplay on any placeholder platforms will result in an immediate permanent ban and you will be blacklisted.
+  
+Gross roleplay is a rule that is enforced to ensure that all parties involved in such roleplay scenarios are comfortable doing so. It is very important firstly if you wish to engage in any form of gross roleplay, this includes things such as but not limited to, explicit torture depictions TBC
