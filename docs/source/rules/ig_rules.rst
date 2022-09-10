@@ -75,3 +75,11 @@ Unacceptable Character Names is a rule that is enforced to keep player names rea
 
    | **Example:**
    | Dylan has just made his account and has decided he wants to make a character named Donald Trump, he creates his character and spawns in-game. This is an Unacceptable Character Name - Dylan should try and pick a unique name which is not widely known or represents any sort of celebrity. Dylan would be asked to change his characrer name.
+
+************************
+Lying to Administrators
+************************
+Lying to Administrators is a rule that is enforced to prevent players from telling lies to gain any sort of advantage. Players of placeholder are expected to tell the truth about scenarios if questioned on it and be able to back it up with screenshots, logs or video evidence. Lying to an Administrator is a very serious offense and will result in a ban or punishment depending on severity.
+
+   | **Example:**
+   | Dylan accidentally uses one of an item in game accidentally in which he was not meant to use, me makes a report and the administrator asks him to provide him with the logs from his clientside. Dylan then provides the administrator with the logs but has edited them to show he used five of the item instead of one. This is Lying to Administrators - Dylan should never attempt to change the logs of his clientside as the logs can be checked serverside by administrators. Dylan would be punished in this scenario.
