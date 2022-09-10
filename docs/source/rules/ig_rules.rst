@@ -116,3 +116,31 @@ Gross roleplay is a rule that is enforced to ensure that all parties involved in
 
    | **Example:**
    | Dylan is with a group of friends who have recently kidnapped a player, they wish to torture him for some information and plan to make it as graphic as possible. Dylan then proceeds to dismember the player without asking if they would be okay with the roleplay. This is forcing Gross Roleplay - Dylan should firstly ask not only the player who he plans to torture if they are okay with it but all parties involved in the event. Dylan would be punished in this scenario.
+
+***********
+Alt-to-Alt
+***********
+Alt-to-Alt is a rule that is enforced to prevent players from transferring their assets from one character to the other, whilst the script will pick this up it should also be noted that transferring assets between two of your own characters is prohibited. This also applies for transferring assets to another player who then transfers them back to you on your other character. Any parties involved in attempted Alt-to-Alt will be permanently banned.
+
+   | **Example 1:**
+   | Dylan has an AK-47 on an old character of his that he no longer uses, he decides that it would be a good idea to drop it in a secret location and go there on his active character and pick it up. This is Alt-to-Alt - Dylan should not attempt to transfer assets between his characters. Dylan would be banned in this senario.
+   
+   | **Example 2:**
+   | Dylan gives a gun to his friend on one character and then switches to another, his friend then transfers him the gun back. This is Alt-to-Alt - Dylan should not attempt to transfer assets from one character to another. Dylan and his friend would be banned in this senario.
+   
+***********
+Carsurfing
+***********
+Carsurfing is a rule that is enforced to prevent the unrealistic action of standing on a moving vehicle due to GTA:SA mechanics. Standing on a vehicles roof whilst it is moving is entirely unrealistic and is prohibited at placeholder. Exeptions are made if you /glue on a vehicle roof after roleplaying getting into the trunk or into the back seats and stating where in the vehicle you are in /status. If you are caught Carsurfing you will receive a punishment.
+
+   | **Example:**
+   | Dylan sees a fast looking vehicle and decides to jump on the vehicles roof whilst it is travelling at a high speed so he can get to his destination. This is Carsurfing - Dylan should either enter the vehicle or roleplay squeezing into the vehicle somewhere and use /glue and /status to indicate where he is in the vehicle so others can see. Dylan would be punished in this scenario.
+   
+***********
+Car-Parking
+***********
+Car-Parking is a rule that is enforced to prevent players from parking a vehicle on top of others in order to kill them. Car-Parking is exploiting a game mechanic to restrict another player and possibly kill them. Car-Parking is prohibited and will result in punishment.
+
+   | **Example:**
+   | Dylan is being shot at whilst in his vehicle, he accelerates at the person shooting running him over and trapping him under the vehicle until he dies. This is Car-Parking - Dylan whilst allowed to ram the player should then allow them to get up and roleplay the injuries sustained from being run over. Dylan would be punished in this scenario.
+   
