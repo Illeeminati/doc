@@ -33,6 +33,11 @@ Powergaming is a rule that is enforced to prevent unrealistic actions being pref
    | **Example 3:**
    | Dylan is in his vehicle and travelling at 100 MPH, Dylan then crashes into the side of a bulding at full speed. Dylan then proceeds to drive off like nothing happened. This is Powergaming - Dylan's actions would be considered entrely unrealistic and the situation should be roleplayed by Dylan. Dylan should roleplay his injuries as a smash at 100 MPH will definitely leave some form of injuries or may even lead to death. Dylan would be punished in this scenario.
    
+.. note::
+  Actions preformed must also be realistic and achieveable by your character. Below is a list of actions that would be considered PG
+  
+  - **Olympic Swimming** - Swimming for a long time without roleplaying any form of exhaustion.
+
 ******************
 Ninja-Jacking (NG)
 ******************
@@ -81,5 +86,17 @@ Lying to Administrators
 ************************
 Lying to Administrators is a rule that is enforced to prevent players from telling lies to gain any sort of advantage. Players of placeholder are expected to tell the truth about scenarios if questioned on it and be able to back it up with screenshots, logs or video evidence. Lying to an Administrator is a very serious offense and will result in a ban or punishment depending on severity.
 
-   | **Example:**
+   | **Example 1:**
    | Dylan accidentally uses one of an item in game accidentally in which he was not meant to use, me makes a report and the administrator asks him to provide him with the logs from his clientside. Dylan then provides the administrator with the logs but has edited them to show he used five of the item instead of one. This is Lying to Administrators - Dylan should never attempt to change the logs of his clientside as the logs can be checked serverside by administrators. Dylan would be punished in this scenario.
+
+   | **Example 2:**
+   | Dylan kills another player without roleplaying taking out his rifle, he is then questioned by an administrator and asked if he did appropriately roleplay the equipping of his weapon, Dylan then says that he did roleplay it. The administrator then checks the logs only to find there was no such roleplay took place. This is Lying to Administrators - Dylan should have admitted to his mistake, whilst he may still have been punished this would result in a less severe punishment due to his honesty. Dylan would be punished in this scenario.
+   
+************
+Bunnyhopping
+************
+Bunnyhopping is a rule that is enforced to prevent players from spamming the jump key to gain a speed advantage over other players or to travel faster than intended. Players of placeholder should not bunnyhop under any means to gain speed. If you are caught doing so it will result in a punishment.
+
+   | **Example:**
+   | Dylan is being chased by police on foot, he notices the cop is catching up with him so in order to gain some ground he decides to spam jump and bunnyhop so he can get away faster. This is Bunnyhopping - Dylan should not use bunnyhopping to gain any form of advantage over another player. Dylan would be punished in this scenario.
+   
