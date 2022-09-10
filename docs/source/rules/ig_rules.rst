@@ -37,7 +37,7 @@ Powergaming is a rule that is enforced to prevent unrealistic actions being pref
   Actions preformed must also be realistic and achieveable by your character. Below is a list of actions that would be considered PG
   
   - **Olympic Swimming** - Swimming for a long time without roleplaying any form of exhaustion.
-  - **Changing Clothes without roleplay** - Self explanitory.
+  - **Changing Clothes without roleplay** - Self explanatory.
   - **Not Roleplaying Fear** - Showing no emotion of fear in situations where people would be frightened.
   - **Chicken Running** - Running in a funny or silly way to avoid someone shooting you.
   - **Rush Tasing** - Tasing a player when they have a gun drawn on you or using your taser to remove an advantage a player has successfully gotten over you.
