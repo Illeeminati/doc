@@ -112,4 +112,7 @@ Gross Roleplay
 .. note::
   Paedophilia roleplay, Rape roleplay and any sexual or gross roleplay involving minors (18 or under) is very strictly prohibited on any of placeholders platforms, engaging in such roleplay on any placeholder platforms will result in an immediate permanent ban and you will be blacklisted.
   
-Gross roleplay is a rule that is enforced to ensure that all parties involved in such roleplay scenarios are comfortable doing so. It is very important firstly if you wish to engage in any form of gross roleplay, this includes things such as but not limited to, explicit torture depictions TBC
+Gross roleplay is a rule that is enforced to ensure that all parties involved in such roleplay scenarios are comfortable doing so. It is very important firstly if you wish to engage in any form of gross roleplay, this includes things such as but not limited to, explicit torture depictions, dismemberment, gore roleplay etc. For Gross Roleplay to take place all parties must agree for it to go ahead Out of Character, if any parties present do not wish to see the Gross Roleplay take place they are free to leave the scene. Failing to ask for permission or forcing someone into Gross Roleplay is against the rules and will result in punishment.
+
+   | **Example:**
+   | Dylan is with a group of friends who have recently kidnapped a player, they wish to torture him for some information and plan to make it as graphic as possible. Dylan then proceeds to dismember the player without asking if they would be okay with the roleplay. This is forcing Gross Roleplay - Dylan should firstly ask not only the player who he plans to torture if they are okay with it but all parties involved in the event. Dylan would be punished in this scenario.
