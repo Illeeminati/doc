@@ -44,7 +44,7 @@ Powergaming is a rule that is enforced to prevent unrealistic actions being pref
   - **Race Skins** - Using a player skin that does not meet your character attributes, for example wearing a black skin when white IC.
 
 ******************
-Ninja-Jacking (NG)
+Ninja-Jacking (NJ)
 ******************
 Ninja-Jacking is a rule that is enforced to prevent players randomly approaching occupied vehicles and stealing them without any attempt to roleplay. Car-jacking must be appropriately roleplayed just like any other action. Failing to do so will result in punishment.
 
@@ -147,6 +147,7 @@ Car-Parking is a rule that is enforced to prevent players from parking a vehicle
 *****
 CCTV
 *****
+By default, all government owned buildings are fitted with CCTV which would cover common angles such as entry points, hallways and offices. When roleplaying these cameras should operate at a resolution of 480p at 5 frames per second. If you roleplay in these areas you are required to drop a /note detailing what the cameras would be able to see you doing. Lying about this or failing to do so may result in a punishment being issued. It should also be noted that in order to upgrade your security system you are required to have generic item and roleplay of installing it, an Administrator can then put a note in the interior notes.
 
 *****
 Binds
