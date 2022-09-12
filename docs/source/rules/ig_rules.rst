@@ -152,6 +152,7 @@ By default, all government owned buildings are fitted with CCTV which would cove
 *****
 Binds
 *****
+Binds are permitted in placeholder for weapons that can realistically be used in one hand such as pistols, knifes, and some SMGs. Any two handed weapons must be roleplayed manually by typing a /me line, this includes rifles, assault rifles, shotguns etc unless they are easily accessible via previous roleplay such as gun slings, resting in your lap, vehicle gun-racks etc.
 
 ********************
 Roleplaying Injuries
