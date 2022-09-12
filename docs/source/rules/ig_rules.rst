@@ -4,7 +4,9 @@ In Game Rules
 
 .. note::
   The following rules should be followed when playing on the placeholder server.
-  
+
+.. note::
+  Please remember the most important rule which is "Roleplay now, Report later". 
 ***************
 Metagaming (MG)
 ***************
