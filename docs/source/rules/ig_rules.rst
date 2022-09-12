@@ -5,8 +5,13 @@ In Game Rules
 .. note::
   The following rules should be followed when playing on the placeholder server.
 
+**************************
+Roleplay Now, Report Later
+**************************
 .. note::
-  Please remember the most important rule which is "Roleplay now, Report later". 
+  Please remember an Administrators decision is final. 
+
+When conducting roleplay of any type if you notice that someone has broke a rule please conclude the roleplay first, do not attempt to stall and wait for an administrator to come to rectify the situation as this puts a pause on any current roleplay. Instead make a report after the situation has concluded and explain what happened during the roleplay and what rules were broken and the administrator can make a final decision.
 ***************
 Metagaming (MG)
 ***************
