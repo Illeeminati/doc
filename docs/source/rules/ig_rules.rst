@@ -169,3 +169,4 @@ Storage Items & Furniture
 **************
 Advertisements
 **************
+All advertisements should be posted In Character, this means any use of Out of Character in advertisements is strictly prohibited. Using advertisements for illicit selling such as illegally obtained weapons, drugs or anything of the nature is also prohibited. If these are posted you will recieve a punishment for doing so. 
