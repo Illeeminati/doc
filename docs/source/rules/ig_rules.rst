@@ -13,6 +13,8 @@ Roleplay Now, Report Later
 
 When conducting roleplay of any type if you notice that someone has broke a rule please conclude the roleplay first, do not attempt to stall and wait for an administrator to come to rectify the situation as this puts a pause on any current roleplay. Instead make a report after the situation has concluded and explain what happened during the roleplay and what rules were broken and the administrator can make a final decision.
 
+Please remember Administrators have tools they can use to check exactly what happened, it doesn't always require administrative intervention immediately.
+
 ***************
 Metagaming (MG)
 ***************
