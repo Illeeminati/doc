@@ -157,6 +157,10 @@ Binds are permitted in placeholder for weapons that can realistically be used in
 ********************
 Roleplaying Injuries
 ********************
+Following an event involving serious bodily harm you are required to roleplay your injuries sufficiently for a period of time. This includes things such as limps, use of limbs, distinguishable markings post injury etc. Failing to roleplay your injuries may result in punishment.
+
+  | **Example:**
+  | Dylan is involved in a vehicle collision and tells EMS his legs are badly damaged, EMS then place Dylan in a wheelchair but he then decides after exiting the hospital to run around normally acting like nothing happened. This is failing to roleplay injuries - Dylan should stick to roleplaying being in a wheelchair for a sufficient period of time to reflect his character arc. Dylan would be punished in this scenario.
 
 *************************
 Storage Items & Furniture
